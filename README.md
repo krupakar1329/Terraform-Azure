@@ -1,5 +1,8 @@
 # Terraform-Azure
 
+
+
+
 [![Check Links](https://github.com/jakewalsh90/Terraform-Azure/actions/workflows/links.yml/badge.svg)](https://github.com/jakewalsh90/Terraform-Azure/actions/workflows/links.yml)
 
 This repository contains Terraform sample code for Azure -  mostly smaller deployments, labs, test environments. These are environments I used to demonstrate/test. Feel free to use these as you wish! :smile:
